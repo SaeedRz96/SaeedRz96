@@ -28,7 +28,7 @@
 </div>
 
 
-### 📫: Languages and Tools :
+### 📫: you can find me here :)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/saeed-ramezani/" target="_blank">
