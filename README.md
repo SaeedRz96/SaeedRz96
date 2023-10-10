@@ -52,7 +52,10 @@
 <br />
 
 
-
+<img
+  src="https://github.com/SaeedRz96/SaeedRz96/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
