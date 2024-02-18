@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: '@saeedrz75' # Hashnode Username
+          USERNAME: 'saeedrz75' # Hashnode Username
           BLOG_URL: 'https://blogdotpy.hashnode.dev/' # Blog URL
           COUNT: 10 # MAX Visisble
         env:
