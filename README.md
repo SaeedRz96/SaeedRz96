@@ -51,15 +51,18 @@
 
 <br />
 
+### ✍️ &nbsp;read my articles on Blog.py 
+<a href="https://blogdotpy.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+<br/>
 
 <img
   src="https://github.com/SaeedRz96/SaeedRz96/blob/main/images/stat.svg"
   alt="Avinal WakaTime Activity"
 />
 
-## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
-<!-- HASHNODE_BLOG:END -->
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
