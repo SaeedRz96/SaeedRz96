@@ -51,8 +51,8 @@
 
 <br />
 
-### ✍️ &nbsp;read my articles on Blog.py 
-<a href="https://blogdotpy.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+### ✍️ &nbsp;Read more from me on Blog.py :)
+<a href="https://blogdotpy.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 <br/>
